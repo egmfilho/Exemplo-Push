@@ -1,0 +1,13 @@
+bower.json
+config.xml
+gulpfile.js
+hooks
+ionic.project
+package.json
+platforms
+plugins
+resources
+scss
+www/lib
+www/img
+
